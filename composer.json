@@ -1,7 +1,7 @@
 {
     "name": "rosgear/rg-be-references-desk",
-    "description": "Extension (module) \"References Desk\" for the GePanel Control Panel",
-    "keywords": ["rosgear", "rg-site", "extension (module)"],
+    "description": "Module extension \"References Desk\" for the GePanel Control Panel",
+    "keywords": ["rosgear", "gepanel", "module", "extension"],
     "homepage": "https://rosgear.ru/component/rg-be-references-desk/",
     "type": "component",
     "license": "MIT",
